@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.cloud.openfeign.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.openfeign.enabled'"
+  },
+  {
+    "name": "spring.cloud.openfeign.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.openfeign.enabled'"
+  }
+]}
