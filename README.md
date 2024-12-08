@@ -24,7 +24,7 @@ SpringShop is a microservices-based shopping application built using Spring Boot
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - Maven
 - Git
 
